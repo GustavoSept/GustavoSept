@@ -8,7 +8,7 @@ My journey in Data Science started in April 2023, and I'm currently immersing my
 
 #### 🔗 Connect with me:
 
-**LinkedIn:** _(Coming Soon)_
+**LinkedIn:** [Gustavo Santos](https://www.linkedin.com/in/gustavo-santos-de-souza-a8018128b/)
 
 **Instagram:** [@Gustavo.sept](https://www.instagram.com/gustavo.sept/)
 

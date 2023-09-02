@@ -12,12 +12,7 @@ My journey in Data Science started in April 2023, and I'm currently immersing my
 
 **Instagram:** [@Gustavo.sept](https://www.instagram.com/gustavo.sept/)
 
-📧 **Email:** GustavoSept.Cron@gmail.com
-
-#### 💻 Technical Skills 
-
-+ **Programming Language:** Python
-+ **Libraries & Frameworks:** Numpy, Pandas, Matplotlib, Scikit-learn, etc.
+**Email:** GustavoSept.Cron@gmail.com
 
 #### 🎓 Education Signaling 
 

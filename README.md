@@ -18,24 +18,16 @@ My journey in Data Science started in April 2023, and I'm currently immersing my
 
 + IBM Data Science Professional Certificate - Coursera
 + Degree in Game Design
-+ C2 English Certificate from Duolingo
 
 ## Ongoing Projects 🛠️
 ### Economic Freedom Data Analysis 🌍
 
 I'm currently working on an analysis of Economic Freedom against various socio-economic factors such as GDP per Capita, Gini Index, and more. The data sets are sourced from Heritage and the World Bank. Here's a glimpse of my research approach:
-Objectives
 
 + Examine Economic Freedom in relation to GDP per Capita, Gini Index, Real Interest Rate, etc.
-+ Compare Brazil's growth against various economic clusters like LatAm, BRICS, and G20.
-+ Build a Machine Learning Predictive Model to approximate how much does Economic Freedom actually contribute to prosperity indicator, in context with Geopolitical, Cultural and SocioEconomic factors. 
++ Build a Machine Learning Predictive Model to approximate how much does Economic Freedom actually contribute to prosperity indicator, in context with Geopolitical, Cultural and SocioEconomic factors.
+  + As of now, I need to acquire much more data regarding such factors, using APIs and webscraping.
 
-## Future Projects 💭
+### Finance Dashboard: Portfolio Projection 📈
 
-+ Gender Wage Gap and Retirement Distribution Analysis in Brazil
-+ Tax Distribution Study in Brazil
-+ Finance Dashboard to forecast long-term realistic gains using automatic portfolio balancing
-
-## Interested in contributing? Feel free to reach out. 🤝
-
-Though I have yet to venture into open-source projects, I'm open to collaborations. If you're interested in any of my projects or have ideas that align with my interests, feel free to connect and let's create something amazing!
+I'm also currently working on a Dashboard/Calculator that receives characteristics of investments as input (like Ideal Proportion in the portfolio, expected growth, risk strategy, etc), stores this information session-wise, and outputs charts projecting the value of the portfolio while accounting for selling over-valued assets and buying under-valued ones.

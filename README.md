@@ -17,7 +17,7 @@ My journey in Data Science started in April 2023, and I'm currently immersing my
 #### 🎓 Education Signaling 
 
 + IBM Data Science Professional Certificate - Coursera
-+ Degree in Game Design
++ Associate Degree in Game Design
 
 ## Ongoing Projects 🛠️
 ### Economic Freedom Data Analysis 🌍
@@ -27,7 +27,3 @@ I'm currently working on an analysis of Economic Freedom against various socio-e
 + Examine Economic Freedom in relation to GDP per Capita, Gini Index, Real Interest Rate, etc.
 + Build a Machine Learning Predictive Model to approximate how much does Economic Freedom actually contribute to prosperity indicator, in context with Geopolitical, Cultural and SocioEconomic factors.
   + As of now, I need to acquire much more data regarding such factors, using APIs and webscraping.
-
-### Finance Dashboard: Portfolio Projection 📈
-
-I'm also currently working on a Dashboard/Calculator that receives characteristics of investments as input (like Ideal Proportion in the portfolio, expected growth, risk strategy, etc), stores this information session-wise, and outputs charts projecting the value of the portfolio while accounting for selling over-valued assets and buying under-valued ones.

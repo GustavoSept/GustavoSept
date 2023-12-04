@@ -1,4 +1,4 @@
-# Data Science Enthusiast 📊
+# Data Analyst 📊
 
 ## About Me 👋
 
@@ -18,12 +18,3 @@ My journey in Data Science started in April 2023, and I'm currently immersing my
 
 + IBM Data Science Professional Certificate - Coursera
 + Associate Degree in Game Design
-
-## Ongoing Projects 🛠️
-### Economic Freedom Data Analysis 🌍
-
-I'm currently working on an analysis of Economic Freedom against various socio-economic factors such as GDP per Capita, Gini Index, and more. The data sets are sourced from Heritage and the World Bank. Here's a glimpse of my research approach:
-
-+ Examine Economic Freedom in relation to GDP per Capita, Gini Index, Real Interest Rate, etc.
-+ Build a Machine Learning Predictive Model to approximate how much does Economic Freedom actually contribute to prosperity indicator, in context with Geopolitical, Cultural and SocioEconomic factors.
-  + As of now, I need to acquire much more data regarding such factors, using APIs and webscraping.

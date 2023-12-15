@@ -17,4 +17,5 @@ Hello! I'm Gustavo, a Data Analyst transitioning from the CGI industry to a fiel
 #### 🎓 Education Signaling 
 
 + IBM Data Science Professional Certificate - Coursera
++ Data Engineering Post-Graduation (currently enrolled)
 + Associate Degree in Game Design

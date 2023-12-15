@@ -2,9 +2,9 @@
 
 ## About Me 👋
 
-Hello! I'm Gustavo, a Data Scientist in the making, transitioning from the CGI industry to a field that I find both fascinating and critical for our times. I've recently completed IBM's Data Science Professional Certificate from Coursera and am eagerly diving into projects that pique my interests. My _current_ focus areas are primarily Finance, Economics, and Health.
+Hello! I'm Gustavo, a Data Analyst transitioning from the CGI industry to a field that I find both fascinating and critical for our times. I've completed IBM's Data Science Professional Certificate from Coursera and am eagerly diving into projects that pique my interests. My _current_ focus areas are primarily Finance, Economics, IoT and Health.
 
-My journey in Data Science started in April 2023, and I'm currently immersing myself in the ***near-endless world of Machine Learning***.
+# [🌐 Live Portfolio](http://gustavosept.us-east-1.elasticbeanstalk.com/)
 
 #### 🔗 Connect with me:
 

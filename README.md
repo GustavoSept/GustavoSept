@@ -2,7 +2,7 @@
 
 ## About Me 👋
 
-Hello! I'm Gustavo, a Data Analyst transitioning from the CGI industry to a field that I find both fascinating and critical for our times. I've completed IBM's Data Science Professional Certificate from Coursera and am eagerly diving into projects that pique my interests. My _current_ focus areas are primarily Finance, Economics, IoT and Health.
+Hello! I'm Gustavo, a Data Analyst transitioning from the CGI industry to a field that I find both fascinating and critical for our times. After the IBM Data Science certification, I've been building my fundamentals on computer science in general: you can look at my study journey [here](http://gustavosept.us-east-1.elasticbeanstalk.com/#educational-journey).
 
 # [🌐 Live Portfolio](http://gustavosept.us-east-1.elasticbeanstalk.com/)
 
@@ -14,8 +14,9 @@ Hello! I'm Gustavo, a Data Analyst transitioning from the CGI industry to a fiel
 
 **Email:** GustavoSept.Cron@gmail.com
 
-#### 🎓 Education Signaling 
+#### 🎓 Education Signaling
 
++ Data Engineering MBA (currently enrolled)
 + IBM Data Science Professional Certificate - Coursera
-+ Data Engineering Post-Graduation (currently enrolled)
 + Associate Degree in Game Design
++ 680+ study hours from various [sources](http://gustavosept.us-east-1.elasticbeanstalk.com/#educational-journey)
